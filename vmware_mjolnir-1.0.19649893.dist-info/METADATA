@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: vmware-mjolnir
+Version: 1.0.19649893
+Summary: Library for injecting fault operations
+Home-page: https://opengrok.eng.vmware.com/source/xref/nsx-qe.git//lib/mjolnir/
+Author: Anuj Mittal, Dharnidhar Reddy Yerram
+Author-email: mittalan@vmware.com, dreddyyerram@vmware.com
+License: Confidential and proprietary to VMWare, Inc.
+Platform: UNKNOWN
+Requires-Dist: paramiko
+Requires-Dist: requests
+Requires-Dist: urllib3
+
+UNKNOWN
+
+
