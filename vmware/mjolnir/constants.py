@@ -16,8 +16,8 @@ class Constants(object):
     '''
 
     
-    MANGLE_SERVER =  '192.168.101.234'
-    MANGLE_USERNAME = 'cmkldev'       
+    MANGLE_SERVER =  '192.168.101.180'
+    MANGLE_USERNAME = 'admin'       
     MANGLE_PASSWORD = '#2022%esx@CMKL'  
 
 
